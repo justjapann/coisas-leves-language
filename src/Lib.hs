@@ -1,5 +1,5 @@
 module Lib
-    ( meMama
+    ( meAma
     , meEsquece
     , dividePoPai
     , multiplicaPoPai
@@ -11,8 +11,8 @@ module Lib
     , crime
     ) where
 
-meMama :: Num a => a -> a -> a
-meMama x y = x + y
+meAma :: Num a => a -> a -> a
+meAma x y = x + y
 
 meEsquece :: Num a => a -> a -> a
 meEsquece x y = x - y
