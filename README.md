@@ -2,7 +2,7 @@
 
 ## Linguagem feita apenas para diversão
 ## Alguma das funções:
-- meMama = soma
+- meAma = soma
 - meEsquece = sub
 - dividePoPai = divisao
 - multiplicaPoPai = multiplicação
@@ -14,7 +14,7 @@
 
 ## Exemplo de uso
 ```haskell
-ghci> meMama 5 5
+ghci> meAma 5 5
 10
 
 ghci> naMira [1,2,3] 1
